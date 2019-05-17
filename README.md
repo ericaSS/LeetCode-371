@@ -1,2 +1,2 @@
 # LeetCode-371
-Bit manipulation
+Bit manipulation, test from REDSREDS
